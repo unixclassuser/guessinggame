@@ -1,3 +1,3 @@
 # **Guessing Game.**
-Fri Oct 27 16:49:11 CDT 2017
+Fri Oct 27 16:50:11 CDT 2017
 In *guessinggame.sh*, the number of lines of code is 37
